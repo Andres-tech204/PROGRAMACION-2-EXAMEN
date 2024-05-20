@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">REGISTRO MEDICIONES</string>
+    <string name="titulo_inicio">App Para Registrar Las Mediciones</string>
+    <string name="btn_registrar_medidas">Guardar Medicion</string>
+    <string name="iconoagua">Agua</string>
+    <string name="iconoluz">Luz</string>
+    <string name="iconogas">Gas</string>
+    <string name="input_medidas">Medidor</string>
+    <string name="input_fecha">Fecha*</string>
+    <string name="Titulo_Formulario">Registro de Mediciones</string>
+    <string name="MedidorDe">*Medidor de:</string>
+</resources>

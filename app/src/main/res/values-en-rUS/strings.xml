@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MEASUREMENTS RECORD</string>
+    <string name="btn_registrar_medidas">Save Register</string>
+    <string name="iconoagua">Water</string>
+    <string name="iconoluz">Light</string>
+    <string name="iconogas">Gas</string>
+    <string name="input_medidas">Meter</string>
+    <string name="input_fecha">Date*</string>
+    <string name="Titulo_Formulario">Measurement Record</string>
+    <string name="MedidorDe">*Meter of:</string>
+    <string name="titulo_inicio">App to Record Measurements</string>
+</resources>
